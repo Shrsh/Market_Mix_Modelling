@@ -3,7 +3,8 @@
 The marketing mix refers to variables that a marketing manager can control to influence a brand’s sales or market share. 
 Traditionally,these variables are summarized as the **four Ps of marketing: product, price, promotion, and place.**
 The perennial question that managers face is,what level or combination of these variables maximizes sales, market share, or profit?
-\ 
+
+
 The answer to this question, in turn, depends on the following question: How do sales or market  share respond to past levels of or expenditures on these variables?
 
 ## Business Understanding
