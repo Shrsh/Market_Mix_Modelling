@@ -106,7 +106,7 @@ I have used **R** for building the models and **shiny** for deploying this model
 [Models and Elasticity Analysis](https://harsh12datascience.shinyapps.io/model_market_mix/)
 
 ## Authors: 
-Harsh Shukla and Priya Agrawal
+Harsh Shukla and [Priya Agrawal](https://github.com/Pryagrawal)
 
 ## License
 This project is licensed under the Apache 2.0 License
